@@ -1,6 +1,6 @@
 # Overview
 
-HowTo is an interpreter which takes a block of text, which we call a story, and converts it to a semi-textual, semi-visual representation. Inspired by the inefficiency of long convoluted instructions, we sought to create something that allowed maximum productivity by transforming the dauntingly complex into simple, user-friendly guides. Powered by the Stanford Parser, HowTo is able to dissect a story and tag each word by assigning it its respective part of speech. Through this process, HowTo recognizes the essential part of each sentence in order to provide the user with a concise visual version of the story.
+HowTo is an interpreter which takes a block of text, which we call a story, and converts it to a semi-textual, semi-visual representation. Inspired by the inefficiency of long convoluted instructions, we sought to create something that allows maximum productivity by transforming the dauntingly complex into simple, user-friendly guides. Powered by the Stanford Parser, HowTo is able to dissect a story and tag each word by assigning it its respective part of speech. Through this process, HowTo recognizes the essential part of each sentence in order to provide the user with a concise visual version of the story.
 
 # The Future
 
